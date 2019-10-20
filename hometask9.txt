@@ -1,0 +1,3 @@
+sub hello(
+	writeln("Hello, world!")
+)
